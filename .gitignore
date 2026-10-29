@@ -1,6 +1,12 @@
 #build output
 bin/
 obj/
+*.exe
+*.o
+
+#Code::Blocks local session files (keep PMS.cbp tracked!)
+*.layout
+*.depend
 
 #runtime data (contains login and customer info)
 users.bin

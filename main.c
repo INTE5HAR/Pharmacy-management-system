@@ -1,6 +1,7 @@
-//built by Inteshar Alam
-//date [11-Dec-2023]
+//made by Inteshar Alam
+//date > 11-Dec-2023
 //GitHub: github.com/INTE5HAR
+
 #include "pharmacy.h"
 
 void clear_buffer(void) {
