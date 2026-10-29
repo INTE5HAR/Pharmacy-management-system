@@ -18,3 +18,22 @@
 1793281195 source:d:\pharmacy management system\customer.c
 	"pharmacy.h"
 
+1793285934 source:c:\users\inteshar\documents\github\pharmacy-management-system\authentication.c
+	"pharmacy.h"
+
+1793285934 c:\users\inteshar\documents\github\pharmacy-management-system\pharmacy.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1793285934 source:c:\users\inteshar\documents\github\pharmacy-management-system\customer.c
+	"pharmacy.h"
+
+1793285934 source:c:\users\inteshar\documents\github\pharmacy-management-system\main.c
+	"pharmacy.h"
+
+1793285934 source:c:\users\inteshar\documents\github\pharmacy-management-system\pharmacist.c
+	"pharmacy.h"
+
