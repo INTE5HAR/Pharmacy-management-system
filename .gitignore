@@ -1,13 +1,11 @@
-# Code::Blocks build output
+#build output
 bin/
 obj/
-*.o
-*.exe
-*.depend
-*.layout
 
-# Runtime data (contains passwords and inventory)
+#runtime data (contains login and customer info)
 users.bin
-cart.txt
 product.txt
+orders.txt
+cart.txt
 temp.txt
+temp_cart.txt
